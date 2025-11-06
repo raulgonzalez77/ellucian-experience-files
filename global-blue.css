@@ -1,0 +1,23 @@
+@import 'https://www.blinn.edu/_ellucian-experience/global-settings.css';
+
+:root {
+
+    /* var(--backgroundColor) !important; */
+    --backgroundColor: #0a2140 !important;
+    
+    /* var(--borderColor) !important; */
+    --borderColor: #0a2140 !important;
+
+    /* var(--backgroundImage) !important; */
+    --backgroundImage: url(https://www.blinn.edu/_ellucian-experience/images/ellucian-card-blue-background-image.jpg);
+
+    /* var(--btnBlinnPrimaryColor) !important; */
+    --btnBlinnPrimaryColor: #000000 !important;
+
+    /* var(--btnBlinnPrimaryBackground) !important; */
+    --btnBlinnPrimaryBackground: #ffc808 !important;
+    
+    /* var(--textColor) !important; */
+    --textColor: #ffc808 !important;
+
+}
