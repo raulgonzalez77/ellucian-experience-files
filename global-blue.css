@@ -1,4 +1,4 @@
-@import 'https://www.blinn.edu/_ellucian-experience/global-settings.css';
+@import 'https://cdn.jsdelivr.net/gh/raulgonzalez77/ellucian-experience-files@master/global-settings.css';
 
 :root {
 
@@ -19,5 +19,6 @@
     
     /* var(--textColor) !important; */
     --textColor: #ffc808 !important;
+
 
 }
