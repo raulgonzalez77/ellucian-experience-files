@@ -1,0 +1,58 @@
+.carousel-caption {
+  color: #000 !important;
+}
+
+.carousel-caption {
+  /*background-color: rgb(0,0,0,0.5);*/
+  /*width: 40%;*/
+  margin: auto;
+}
+
+.carousel-indicators li{
+  background-color: #000 !important;
+}
+
+h5 {
+  font-weight: bold;
+  color: #0a2240;
+}
+
+.carousel{
+    /*background: #2f4357;*/
+  background: #fff;
+    margin-top: 20px;
+margin: auto;
+width: 90%;
+overflow: hidden;
+}
+.carousel-item{
+    text-align: center;
+    min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+
+
+
+/*
+.carousel-item  img {
+
+  width: 200px;
+  height: 280px;
+  object-fit: cover;
+
+}
+*/
+
+.carousel-item  img {
+
+  width: 100%;
+  height: auto;
+  max-height: 280px;
+  /*object-fit: cover;*/
+
+}
+
+
+
+iframe { 
+	overflow-y: hidden; 
+}
