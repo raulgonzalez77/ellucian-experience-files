@@ -9,7 +9,7 @@
     --borderColor: #0a2140 !important;
 
     /* var(--backgroundImage) !important; */
-    --backgroundImage: url(https://www.blinn.edu/_ellucian-experience/images/ellucian-card-gold-background-image.jpg);
+    --backgroundImage: url(https://cdn.jsdelivr.net/gh/raulgonzalez77/ellucian-experience-files@main/images/ellucian-card-gold-background-image.jpg);
     
         /* var(--btnBlinnPrimaryColor) !important; */
     --btnBlinnPrimaryColor: #ffffff !important;
@@ -22,3 +22,4 @@
 
 
 }
+
